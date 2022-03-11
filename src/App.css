@@ -1,38 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@font-face {
+	font-family: "casc-mono";
+	src: url("./fonts/CascadiaMonoItalic.ttf");
+	font-style: bold;
+	color: "#fff";
+}
+
+* {
+	/* cursor: none; */
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-color: "#080808";
+}
+
 .App {
-  text-align: center;
+	/* text-align: center; */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.MainContainer {
+	margin: 0px;
+	padding: 0px;
+	background-color: #080808;
+	width: 100vw;
+	min-height: 100vh;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+	/* justify-content: center; */
+	color: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+*::-webkit-scrollbar {
+	width: 6px;
+}
+*::-webkit-scrollbar-track {
+	background-color: black;
+}
+*::-webkit-scrollbar-thumb {
+	border-radius: 4px;
+	background-color: gray;
+}
+*::-webkit-scrollbar-button {
+	height: 0;
+}
+* {
+	scrollbar-width: thin;
+	scrollbar-color: gray transparent;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+section {
+	padding: 120px 0px;
+	margin: 0 80px;
 
-.App-link {
-  color: #61dafb;
+	/* border: 1px solid red; */
 }
+@media screen and (max-width: 480px) {
+	section {
+		padding: 120px 0px;
+		margin: 0 20px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+		/* border: 1px solid red; */
+	}
+}
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+	section {
+		padding: 120px 0px;
+		margin: 0 40px;
+
+		/* border: 1px solid red; */
+	}
 }
