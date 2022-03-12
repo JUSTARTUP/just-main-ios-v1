@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JUST-2022-IOS/static/css/main.7efd3ce5.css",
-    "main.js": "/JUST-2022-IOS/static/js/main.a959d66d.js",
+    "main.css": "/JUST-2022-IOS/static/css/main.179fc0ac.css",
+    "main.js": "/JUST-2022-IOS/static/js/main.856b2df4.js",
     "static/js/787.da0447ed.chunk.js": "/JUST-2022-IOS/static/js/787.da0447ed.chunk.js",
     "static/media/minyong.jpg": "/JUST-2022-IOS/static/media/minyong.28620f79af6966ce8085.jpg",
     "static/media/minsung.png": "/JUST-2022-IOS/static/media/minsung.419a059dc7731582f287.png",
@@ -17,12 +17,12 @@
     "static/media/5justGradation.jpg": "/JUST-2022-IOS/static/media/5justGradation.277f21df8dddc2af071b.jpg",
     "static/media/msPark.jpg": "/JUST-2022-IOS/static/media/msPark.2b85bb03b1f4f27f76fe.jpg",
     "index.html": "/JUST-2022-IOS/index.html",
-    "main.7efd3ce5.css.map": "/JUST-2022-IOS/static/css/main.7efd3ce5.css.map",
-    "main.a959d66d.js.map": "/JUST-2022-IOS/static/js/main.a959d66d.js.map",
+    "main.179fc0ac.css.map": "/JUST-2022-IOS/static/css/main.179fc0ac.css.map",
+    "main.856b2df4.js.map": "/JUST-2022-IOS/static/js/main.856b2df4.js.map",
     "787.da0447ed.chunk.js.map": "/JUST-2022-IOS/static/js/787.da0447ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7efd3ce5.css",
-    "static/js/main.a959d66d.js"
+    "static/css/main.179fc0ac.css",
+    "static/js/main.856b2df4.js"
   ]
 }
