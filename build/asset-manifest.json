@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.38681101.css",
-    "main.js": "/static/js/main.6acef3f3.js",
-    "static/js/787.da0447ed.chunk.js": "/static/js/787.da0447ed.chunk.js",
-    "static/media/minyong.jpg": "/static/media/minyong.28620f79af6966ce8085.jpg",
-    "static/media/minsung.png": "/static/media/minsung.419a059dc7731582f287.png",
-    "static/media/inhwa.png": "/static/media/inhwa.db9ed154986fec10bf6e.png",
-    "static/media/jahoon.jpg": "/static/media/jahoon.c99c8bb661a527b4e583.jpg",
-    "static/media/CascadiaMonoItalic.ttf": "/static/media/CascadiaMonoItalic.64accd8054b552533f1d.ttf",
-    "static/media/eunchai.jpg": "/static/media/eunchai.116220931873e81c2fa3.jpg",
-    "static/media/card2.png": "/static/media/card2.bef876a0f0c87f1957fe.png",
-    "static/media/card3.png": "/static/media/card3.269fe7efd5a4384de189.png",
-    "static/media/card1.png": "/static/media/card1.b5ccd36c6408183f5ead.png",
-    "static/media/dogo.jpg": "/static/media/dogo.d98cfb870c9b07138877.jpg",
-    "static/media/heewon.jpg": "/static/media/heewon.ef35f1c2569bbee145ab.jpg",
-    "static/media/5justGradation.jpg": "/static/media/5justGradation.277f21df8dddc2af071b.jpg",
-    "static/media/msPark.jpg": "/static/media/msPark.2b85bb03b1f4f27f76fe.jpg",
-    "index.html": "/index.html",
-    "main.38681101.css.map": "/static/css/main.38681101.css.map",
-    "main.6acef3f3.js.map": "/static/js/main.6acef3f3.js.map",
-    "787.da0447ed.chunk.js.map": "/static/js/787.da0447ed.chunk.js.map"
+    "main.css": "/JUST-2022-IOS/static/css/main.7efd3ce5.css",
+    "main.js": "/JUST-2022-IOS/static/js/main.a959d66d.js",
+    "static/js/787.da0447ed.chunk.js": "/JUST-2022-IOS/static/js/787.da0447ed.chunk.js",
+    "static/media/minyong.jpg": "/JUST-2022-IOS/static/media/minyong.28620f79af6966ce8085.jpg",
+    "static/media/minsung.png": "/JUST-2022-IOS/static/media/minsung.419a059dc7731582f287.png",
+    "static/media/inhwa.png": "/JUST-2022-IOS/static/media/inhwa.db9ed154986fec10bf6e.png",
+    "static/media/jahoon.jpg": "/JUST-2022-IOS/static/media/jahoon.c99c8bb661a527b4e583.jpg",
+    "static/media/CascadiaMonoItalic.ttf": "/JUST-2022-IOS/static/media/CascadiaMonoItalic.64accd8054b552533f1d.ttf",
+    "static/media/eunchai.jpg": "/JUST-2022-IOS/static/media/eunchai.116220931873e81c2fa3.jpg",
+    "static/media/card2.png": "/JUST-2022-IOS/static/media/card2.bef876a0f0c87f1957fe.png",
+    "static/media/card3.png": "/JUST-2022-IOS/static/media/card3.269fe7efd5a4384de189.png",
+    "static/media/card1.png": "/JUST-2022-IOS/static/media/card1.b5ccd36c6408183f5ead.png",
+    "static/media/dogo.jpg": "/JUST-2022-IOS/static/media/dogo.d98cfb870c9b07138877.jpg",
+    "static/media/heewon.jpg": "/JUST-2022-IOS/static/media/heewon.ef35f1c2569bbee145ab.jpg",
+    "static/media/5justGradation.jpg": "/JUST-2022-IOS/static/media/5justGradation.277f21df8dddc2af071b.jpg",
+    "static/media/msPark.jpg": "/JUST-2022-IOS/static/media/msPark.2b85bb03b1f4f27f76fe.jpg",
+    "index.html": "/JUST-2022-IOS/index.html",
+    "main.7efd3ce5.css.map": "/JUST-2022-IOS/static/css/main.7efd3ce5.css.map",
+    "main.a959d66d.js.map": "/JUST-2022-IOS/static/js/main.a959d66d.js.map",
+    "787.da0447ed.chunk.js.map": "/JUST-2022-IOS/static/js/787.da0447ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38681101.css",
-    "static/js/main.6acef3f3.js"
+    "static/css/main.7efd3ce5.css",
+    "static/js/main.a959d66d.js"
   ]
 }
